@@ -199,7 +199,7 @@ To use the actual Statistics Canada data, download Table 20-10-0063-01 from [www
 
 Built as part of a data analytics portfolio to demonstrate real-world time series skills — decomposition, anomaly detection, from-scratch forecasting, and clear business communication.
 
-**Analyst:** [Your Name] | [LinkedIn] | [Portfolio]
+**Analyst:** Anns Iqbal
 
 ---
 
